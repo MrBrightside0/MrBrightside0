@@ -6,14 +6,6 @@
   <img src="https://github.com/MrBrightside0/MrBrightside0/blob/main/assets/banner_profile.gif" alt="Banner" width="100%"/>
 </p>
 
-```bash
->>> Initializing Edmundo Core Systems...
->>> Access granted.
-AI Developer | Data Architect | Embedded Systems Enthusiast
-Specializing in Machine Learning, Computer Vision & Clean Code.
->>> System online.
-```
-
 ---
 
 ## ⚙️ About Me  
@@ -24,27 +16,38 @@ Hi there 👋 I'm **Edmundo**, an AI engineer who transforms complex data into i
 
 ## 🧬 Tech Stack  
 
+#### 💻 Languages & Frameworks  
 <p align="center">
-  <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" title="PHP"/>
-
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" title="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" height="50" title="Next.js"/>
-
-  <!-- Backend & AI -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" height="50" title="FastAPI"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" height="50" title="PyTorch"/>
-
-  <!-- Systems & Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" title="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" title="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" title="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" title="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" title="PHP"/>
 </p>
+
+#### 🎨 Frontend  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" title="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" title="Next.js"/>
+</p>
+
+#### ⚙️ Backend & AI  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" title="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch"/>
+</p>
+
+#### 🧰 Tools & Systems  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" title="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" title="GitHub"/>
+</p>
+
+
 
 
 ---
@@ -99,11 +102,11 @@ Explore my personal website — where technology, creativity, and automation con
 ---
 
 <p align="center">
-  <img src="https://github.com/MrBrightside0/MrBrightside0/blob/output/github-contribution-grid-snake.svg" width="90%"/>
+  <img src="https://github.com/MrBrightside0/MrBrightside0/blob/main/assets/github-contribution-grid-snake.svg" width="90%"/>
 </p>
 
 <p align="center">
-  <sub><i>“Crafting clean code & chaotic ideas.”</i></sub>  
+  <sub><i><span style="color:#00ff66;">“Crafting clean code & chaotic ideas.”</span></i></sub>
   <br/>
   <sub>Let’s build something intelligent together 🚀</sub>
 </p>
